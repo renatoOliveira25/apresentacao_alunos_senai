@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(to right, green, red, yellow);
+    color: white;
+    text-decoration:overline;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    background-color: pink;
+}
+
+ul {
+    border: 5px solid;
+    border-color: aquamarine;
+    background-color: blue;
+    color: white;
+
+}
+
+.item {
+    color: burlywood;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+
+img {
+    border: 5px double;
+    border-color: aquamarine;
+    border-radius: 50%;
+}
+img:hover {
+    opacity: 50%;
+}
+p{
+    background-color: rgb(87, 164, 164);
+    font-size: 25px;
+}
+p:hover{
+    background-color: rgb(187, 255, 0);
+}

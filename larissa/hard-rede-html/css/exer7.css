@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+
+body {
+    background-color: rgb(251, 241, 250);
+    color: rgb(255, 12, 142);
+    font-family: 'Girassol', cursive;
+}
+
+.titulo1 {
+    text-align: center;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    border: 4px double;
+}
+
+.imagem {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    border-radius: 20%;
+}

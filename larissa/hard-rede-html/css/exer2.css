@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+
+body {
+    background-color: rgb(251, 241, 250);
+    color: rgb(255, 12, 142);
+}
+
+.texto {
+    font-family: 'Girassol', cursive, serif;
+    text-align: center;
+    font-size: 25px;
+    margin: auto;
+    border-style: double;
+    border-color: rgb(255, 12, 142);
+}
+
+h2 {
+    font-family: 'Girassol', cursive, serif;
+    text-align: center;
+    font-weight: 100px;
+    width: 500px;
+    margin: auto;
+}
+
+* {
+    box-sizing: border-box
+}
+
+/* Slides */
+.slideshow-container {
+    max-width: 300px;
+    position: relative;
+    margin: auto;
+}
+
+/* Imagens */
+.mySlides {
+    display: none;
+}
+
+/* botão de antes e depois */
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+/* Posição do botão de "depois" */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* Quando passar o mouse em cima, ficar escuro */
+.prev:hover,
+.next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* texto embaixo da imagem */
+.text {
+    color: rgb(255, 12, 142);
+    font-size: 20px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+
+/* animação pra alterar de foto */
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}

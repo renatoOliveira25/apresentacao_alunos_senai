@@ -1,0 +1,30 @@
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    border-style: double;
+    border-color: blueviolet;
+    border-width: 10px 10px;
+}
+
+body{
+    background-color: rgb(173, 206, 249);
+    text-align: center;
+}
+
+h1{
+    border-top: 15px solid rgb(194, 9, 231);
+    background-color: rgb(224, 119, 247);
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.VeC{
+    display: flex; 
+    justify-content: space-around; 
+}
+
+
+
+

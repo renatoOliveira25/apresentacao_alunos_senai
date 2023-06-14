@@ -1,0 +1,39 @@
+div.desafio1{
+    background-color: aqua;
+    border: 5px solid black;
+    color: red;
+}
+
+div:hover{
+    background-color: rgb(72, 0, 255);
+    color: black;
+}
+
+.um:hover{
+    color:rgb(255, 255, 255)
+}
+
+img.d1{
+    border-radius: 50%;
+}
+
+img.d2:hover{
+    border: 5px solid;
+    border-color: red;
+    transform: scaleY(-1);
+}
+
+img.d3:hover{
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+@keyframes example {
+  50%  {transform: rotateY(150deg);}
+  100% {transform: rotateY(150deg);}
+}
+  
+  
+
+
+

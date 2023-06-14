@@ -1,0 +1,33 @@
+html {
+    background-color:rgb(130, 11, 11);
+    text-align: center;
+}
+
+p.marrom {
+    color:rgb(41, 3, 3);
+    font-family:Georgia;
+}
+
+p.azul {
+    background-color:rgb(146, 53, 53);
+    font-family:'Lucida Sans';
+    border: 5px solid; 
+    border-color:rgb(32, 4, 50);
+}
+
+h1 {
+    background-color:rgba(13, 95, 118, 0.868);
+    font-family: 'cursive';
+    border: 5px solid;
+}
+
+img.vermelho {
+    color: rgb(150, 6, 6);
+    border: 10px dashed;
+}
+
+img.marrom {
+    color: rgb(84, 17, 4);
+    border: 10px dashed;
+
+}

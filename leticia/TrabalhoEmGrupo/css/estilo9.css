@@ -1,0 +1,19 @@
+body{
+    background-color:  rgba(5, 136, 243, 0.566);
+    text-align: center;
+}
+h1{
+color: black;
+    background-color: blueviolet;
+    border-style: double;
+    border-width: 10px 10px;
+    border-color: rgba(145, 5, 145, 0.664);
+}
+a{
+ margin-top: 5em;
+ margin-bottom: 53m;
+}
+.VeC{
+    display: flex; 
+    justify-content: space-around; 
+}

@@ -1,0 +1,70 @@
+html {
+    background-color:rgb(22, 223, 226);
+    text-align: center;
+}
+
+h1 {
+    background-color:rgba(119, 4, 88, 0.868);
+    font-family: 'cursive';
+    border: 10px dashed;
+    border-color:rgb(81, 5, 85);
+}
+
+a.primeiro {
+    background-color:rgba(87, 123, 181, 0.868);
+    font-family: 'cursive';
+    border: 5px solid;
+    margin-left: 30em;
+    border-color:rgb(73, 39, 152);
+}
+
+a.segundo {
+    background-color:rgba(39, 91, 175, 0.868);
+    font-family: 'cursive';
+    border: 5px solid;
+    margin-left: 30em;
+    border-color:rgb(40, 8, 113);
+}
+
+a.terceiro {
+    background-color:rgba(28, 70, 142, 0.868);
+    font-family: 'cursive';
+    border: 5px solid;
+    margin-left: 30em;
+    border-color:rgb(13, 1, 42);
+}
+
+img.primeiro {
+    width: 500px;
+    heigth: 300px;
+    border: 5px double rgb(150, 6, 6);
+    background-color: rgb(239, 243, 243);
+    margin-right: 30em;
+    object-fit: none;
+    object-position: center;
+    box-shadow: 0 50px 50px 0 rgb(12, 9, 9), 0 6px 20px 0 rgb(132, 53, 53);
+    
+}
+
+img.segundo {
+    width: 500px;
+    heigth: 300px;
+    border: 5px double rgb(84, 17, 4);
+    background-color: rgb(239, 243, 243);
+    margin-right: 30em;
+    object-fit: none;
+    object-position: center;
+    box-shadow: 0 50px 50px 0 rgb(12, 9, 9), 0 6px 20px 0 rgb(132, 53, 53);
+
+}
+
+img.terceiro {
+    width: 500px;
+    heigth: 300px;
+    border: 5px double rgb(150, 6, 6);
+    background-color: rgb(239, 243, 243);
+    margin-right: 30em;
+    object-fit: none;
+    object-position: center;
+    box-shadow: 0 50px 50px 0 rgb(12, 9, 9), 0 6px 20px 0 rgb(132, 53, 53);
+}

@@ -1,0 +1,33 @@
+html {
+    background-color:rgb(67, 5, 160);
+    text-align: center;
+}
+
+p.marrom {
+    color:rgb(90, 5, 93);
+    font-family:Georgia;
+}
+
+p.azul {
+    background-color:rgb(8, 24, 113);
+    font-family:'Lucida Sans';
+    border: 5px solid; 
+    border-color:rgb(50, 4, 43);
+}
+
+h1 {
+    background-color:rgba(89, 8, 80, 0.868);
+    font-family: 'cursive';
+    border: 5px solid;
+}
+
+img.azul {
+    color: rgb(63, 6, 116);
+    border: 10px dashed;
+}
+
+img.roxo {
+    color: rgb(56, 4, 84);
+    border: 10px dashed;
+
+}

@@ -1,0 +1,32 @@
+body{
+    background-color: #3664DD; 
+    margin: 0; 
+} 
+div{ 
+    background-color: #2D8ED9; 
+} 
+.div3{ 
+    display: flex; 
+    justify-content:center; 
+    align-items:center; 
+} 
+img{
+    width: 350px;
+    height: 350px; 
+} 
+footer{ 
+    height: 20px; 
+    color: black; 
+    position: absolute; 
+    bottom: 0; 
+    background-color: #3664DD; 
+    width: 99%; 
+    height: 70px;     
+    text-align: center; 
+    border: solid 4px; 
+    border-color: #2D8ED9; 
+} 
+.VeC{
+    display: flex; 
+    justify-content: space-around; 
+}

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+
+body {
+    /* Define a cor de fundo da pagina para rosa*/
+    background-color: rgb(251, 241, 250);
+    color: rgb(255, 12, 142);
+
+}
+
+.inicial {
+    /* Edita as informações pessoais*/
+    font-family: 'Girassol', cursive;
+    font-size: 25px;
+}
+
+.nomeatividade {
+    /* Isso edita o nome do trabalho*/
+    font-family: 'Girassol', cursive;
+    text-align: center;
+}
+
+a {
+    /* Esse programa edita os links das outras atividade */
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(255, 12, 142);
+    font-size: 30px;
+    font-family: 'Girassol', cursive;
+    border-radius: 7px;
+    border: solid rgb(255, 12, 142) 2px;
+}
+
+.jogoslink {
+    /* Esse programa edita a div dos links */
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    /* Definindo a largura da 'div.img' como 100% da tela, arredondando a imagem*/
+    width: 100%;
+    border-radius: 20px;
+}

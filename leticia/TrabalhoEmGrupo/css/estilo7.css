@@ -1,0 +1,40 @@
+body{
+    background-color:  rgba(5, 136, 243, 0.566);
+    text-align: center;
+}
+h1{
+    color: black;
+    background-color: blueviolet;
+    border-style: double;
+    border-width: 10px 10px;
+    border-color: rgba(145, 5, 145, 0.664);
+}
+h2{
+    color: black;
+    border-bottom: 6px solid blueviolet;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+img{
+    border: 1px solid rgba(145, 5, 145, 0.664);
+    border-radius: 8px;
+    padding: 5px;
+}
+.vc{
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    background-color: rgba(145, 5, 145, 0.274);
+    border-color: blueviolet;
+    margin-bottom: 1em;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.b{
+    background-color: rgba(145, 5, 145, 0.274);
+    border-color: blueviolet;
+    margin-bottom: 1em;
+    margin-left: 5em;
+    margin-right: 5em;
+}

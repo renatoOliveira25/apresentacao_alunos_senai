@@ -1,0 +1,27 @@
+@import url('https://fonts.google.com/specimen/Labrada');
+
+table {
+    background-color: #000000;
+    text-align: center;
+    border: 1px solid;
+    border-color:gray;
+    font-family:'Labrada', Courier;
+    text-align: center:
+}
+
+th, td {
+    color: #ffffff;
+    border-bottom: 1px solid;
+    border-color:gray;
+    width: 12%;
+}
+
+th:nth-child(1), td:nth-child(1) {
+    color: red;
+}
+
+th:nth-child(7), td:nth-child(7)  {
+    color: blue;
+}
+
+

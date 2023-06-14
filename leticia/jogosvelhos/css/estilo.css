@@ -1,0 +1,33 @@
+html {
+    background-color:orange;
+    text-align: center;
+}
+
+p.marrom {
+    color:rgb(146, 9, 9);
+    font-family:Georgia;
+}
+
+p.vermelho {
+    background-color:red;
+    font-family:'Lucida Sans';
+    border: 5px solid; 
+    border-color:rgb(113, 14, 9);
+}
+
+h1 {
+    background-color:rgb(253, 238, 37);
+    font-family: 'cursive';
+    border: 5px solid;
+}
+
+img.vermelho {
+    color: rgb(207, 26, 26);
+    border: 10px dashed;
+}
+
+img.vermelhão {
+    color: rgb(165, 17, 17);
+    border: 10px dashed;
+
+}

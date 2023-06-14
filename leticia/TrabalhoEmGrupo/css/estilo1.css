@@ -1,0 +1,65 @@
+table { 
+    background-color:#0fe6e6; 
+    text-align: center; 
+    border: 5px solid; 
+    border-color:blueviolet; 
+    font-family: cursive;
+    text-align: center;
+} 
+.divUM{
+    margin-top: 5em;
+    margin-right: 10em;
+    margin-left: 10em;
+}
+td,th {
+    color: #000000; 
+    border-bottom: 1px solid; 
+    border-color:rgb(37, 36, 36); 
+    width: 10%; 
+    border: 1px solid blueviolet; 
+}
+.divDOIS{
+    display: flex; 
+    justify-content: space-around; 
+}
+.UM{
+    background-color: aqua;
+    border-color: blueviolet;
+    margin-bottom: 1em;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.DOIS{
+    background-color: aqua;
+    border-color:blueviolet;
+    margin-bottom: 1em;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+body{
+    background-image: url(https://www.bleepstatic.com/content/hl-images/2023/03/13/kali-moto.jpg);
+    background-size: 20%;
+}
+h1{
+    color:#000000; 
+    background-color: aqua;
+    text-align: center; 
+    border: 5px solid; 
+    border-color:blueviolet; 
+    font-family: cursive;
+    text-align: center;
+}
+footer{ 
+    height: 10%; 
+    font-family: cursive;
+    color: #000000; 
+    position: absolute; 
+    bottom: 0; 
+    background-color: rgb(144, 245, 245); 
+    width: 35%; 
+    height: 120px;     
+    text-align: center; 
+    border: solid 6px; 
+    border-color: rgb(156, 85, 223); 
+    margin-left: 28em;
+} 

@@ -1,0 +1,56 @@
+h1 { 
+    color: rgb(3, 236, 236); 
+    text-align: center; 
+    border: 5px solid; 
+    border-color:rgb(18, 89, 230); 
+    font-family: cursive;
+    text-align: center;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+.divUM{
+    background-color: rgb(3, 236, 236); 
+    color: black;
+    text-align: center; 
+    border: 5px solid; 
+    border-color:blueviolet; 
+    font-family: cursive;
+    text-align: center;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+h2{
+    font-family: cursive;
+    text-align: center;
+    margin-left: 10em;
+    margin-right: 10em;
+    color:blueviolet;
+}
+h3{
+    font-family: cursive;
+    text-align: center;
+    margin-left: 10em;
+    margin-right: 10em;
+    color:blue;
+}
+body { 
+    background-color:rgb(33, 33, 70);
+}
+.divDOIS{
+        display: flex; 
+        justify-content: space-around; 
+}
+.UM{
+    background-color: aqua;
+    border-color:blueviolet;
+    margin-bottom: 20em;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+.DOIS{
+    background-color: aqua;
+    border-color:blueviolet;
+    margin-bottom: 20em;
+    margin-left: 10em;
+    margin-right: 10em;
+}
